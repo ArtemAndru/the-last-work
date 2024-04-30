@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #333366;
+    background-color: #f9f9f9;
 }
 
 nav ul {
     list-style: none;
-    background-color: yellow;
+    background-color: #333;
     padding: 0;
 }
 
@@ -15,10 +15,10 @@ nav ul li {
 }
 
 nav ul li a {
-    color: yellow;
+    color: #fff;
     text-decoration: none;
 }
 
 h1 {
-    color: #333366;
+    color: #333;
 }
