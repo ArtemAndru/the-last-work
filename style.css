@@ -29,3 +29,10 @@ h1 {
   font-weight: <weight>;
   font-style: normal;
 }
+
+.text {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
