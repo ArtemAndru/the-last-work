@@ -22,3 +22,10 @@ nav ul li a {
 h1 {
     color: #Cyan;
 }
+
+.info {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
